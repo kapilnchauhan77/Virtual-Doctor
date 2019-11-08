@@ -7,23 +7,17 @@ Features:
 
 1) Gives answers to all your medical queries:
 
-![Screenshot_2019-11-07-17-09-03-571_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473926-364be380-024a-11ea-8e6f-4a1bb00218e8.jpg)
-
-![Screenshot_2019-11-07-17-10-00-058_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473933-3e0b8800-024a-11ea-8fdd-ee002ffcbe85.jpg)
+![Screenshot_2019-11-07-17-09-03-571_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473926-364be380-024a-11ea-8e6f-4a1bb00218e8.jpg)                                                      |                                                                                       ![Screenshot_2019-11-07-17-10-00-058_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473933-3e0b8800-024a-11ea-8fdd-ee002ffcbe85.jpg)
 
 
 2) Ability to Partition your diagnosis by creating different diagnosis topcs:
 
-![Screenshot_2019-11-07-17-09-19-003_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473969-54194880-024a-11ea-8dd2-2e6fd6995762.jpg)
-
-![Screenshot_2019-11-07-17-22-26-308_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473975-59769300-024a-11ea-8b1b-e4e02fab5521.jpg)
+![Screenshot_2019-11-07-17-09-19-003_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473969-54194880-024a-11ea-8dd2-2e6fd6995762.jpg) | ![Screenshot_2019-11-07-17-22-26-308_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473975-59769300-024a-11ea-8b1b-e4e02fab5521.jpg)
 
 
 3) Get access to your secure data by logging into your account:
 
-![Screenshot_2019-11-07-16-58-38-577_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474103-95115d00-024a-11ea-9e56-7daa1d0cca2e.jpg)
-
-![Screenshot_2019-11-07-17-06-16-027_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474136-aa868700-024a-11ea-8ec3-77ff458d4413.jpg)
+![Screenshot_2019-11-07-16-58-38-577_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474103-95115d00-024a-11ea-9e56-7daa1d0cca2e.jpg) | ![Screenshot_2019-11-07-17-06-16-027_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474136-aa868700-024a-11ea-8ec3-77ff458d4413.jpg)
 
 
 
