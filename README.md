@@ -7,40 +7,35 @@ Features:
 
 1) Gives answers to all your medical queries:
 
-![Screenshot_2019-11-07-17-09-03-571_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472353-51b4ef80-0246-11ea-96ab-be58006b276a.jpg)
+![Screenshot_2019-11-07-17-09-03-571_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473926-364be380-024a-11ea-8e6f-4a1bb00218e8.jpg)
 
-
-![Screenshot_2019-11-07-17-10-00-058_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472440-90e34080-0246-11ea-8a8b-398fb1fcfe28.jpg)
-
+![Screenshot_2019-11-07-17-10-00-058_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473933-3e0b8800-024a-11ea-8fdd-ee002ffcbe85.jpg)
 
 
 2) Ability to Partition your diagnosis by creating different diagnosis topcs:
 
-![Screenshot_2019-11-07-17-09-19-003_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472627-e3bcf800-0246-11ea-804a-2bc6b7e38d08.jpg)
+![Screenshot_2019-11-07-17-09-19-003_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473969-54194880-024a-11ea-8dd2-2e6fd6995762.jpg)
 
-
-![Screenshot_2019-11-07-17-22-26-308_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472666-f46d6e00-0246-11ea-8673-ce9183667e92.jpg)
-
+![Screenshot_2019-11-07-17-22-26-308_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473975-59769300-024a-11ea-8b1b-e4e02fab5521.jpg)
 
 
 3) Get access to your secure data by logging into your account:
 
-![Screenshot_2019-11-07-16-58-38-577_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472816-62199a00-0247-11ea-8d5d-7f36f42a9403.jpg)
+![Screenshot_2019-11-07-16-58-38-577_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474103-95115d00-024a-11ea-9e56-7daa1d0cca2e.jpg)
 
-
-![Screenshot_2019-11-07-17-06-16-027_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472856-778ec400-0247-11ea-8624-700939b36b57.jpg)
+![Screenshot_2019-11-07-17-06-16-027_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474136-aa868700-024a-11ea-8ec3-77ff458d4413.jpg)
 
 
 
 4) Customize your account by chossing your own profile picture and name:
 
-![Screenshot_2019-11-07-17-06-23-426_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68472926-a2791800-0247-11ea-839b-895eebfb034c.jpg)
+![Screenshot_2019-11-07-17-06-23-426_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474154-b5411c00-024a-11ea-8b1d-1391cde66c3e.jpg)
 
 
 
 5) Talk to a real doctor (Coming Soon):
 
-![Screenshot_2019-11-07-17-09-06-440_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68473016-e0763c00-0247-11ea-8eac-d8d37565c897.jpg)
+![Screenshot_2019-11-07-17-09-06-440_Vir Doc Kapil](https://user-images.githubusercontent.com/44964331/68474167-bf631a80-024a-11ea-8aff-f89bd5a65d13.jpg)
 
 
 Website: http://www.vitualdoctor.ml
