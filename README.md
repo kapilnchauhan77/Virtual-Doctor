@@ -1,7 +1,7 @@
 # Virtual-Doctor
 A free to use website and mobile application containing a Medical Diagnostic Chat Bot.
 
-Mobile Application: https://drive.google.com/file/d/1pWO1Lm7WrI13yQOKW9OklG4oHIbvGoz1/view?usp=sharing (Releasing on Play store and app store soon!!!)
+Android Application: https://drive.google.com/file/d/1M1XhU_OqJBlhiK8n7uk-ax7YkpceE5uc/view?usp=sharing (Releasing on Play store soon!!!)
 
 Features:
 
