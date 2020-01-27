@@ -43,7 +43,7 @@ Features:
 
 1) Simple to use interface:
 
-![Annotation 2019-11-08 165245](https://user-images.githubusercontent.com/44964331/68473162-3945d480-0248-11ea-9856-5ada54faf035.png)
+![Annotation 2020-01-27 190230](https://user-images.githubusercontent.com/44964331/73178779-f6551800-4137-11ea-9ee2-8256d31bf9e4.png)
 
 
 
@@ -55,7 +55,7 @@ Features:
 
 3) Account creation:
 
-![Annotation 2019-11-08 165148](https://user-images.githubusercontent.com/44964331/68473355-c557fc00-0248-11ea-9e83-90022451bb14.png)
+![Annotation 2020-01-27 190808](https://user-images.githubusercontent.com/44964331/73178969-6499da80-4138-11ea-8d00-83dcb0ab2791.png)
 
 
 My motto for creating this:
